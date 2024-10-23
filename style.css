@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    margin-top: 10px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    width: 9rem;
+    padding: 10px;
+    background-color: rgb(49, 48, 48);
+    color: wheat;
+    font-size: 1rem;
+    font-weight: 800;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+main {
+    margin: 90px auto;
+    border: 2px solid black;
+    width: 80%;
+    height: 20rem;
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    margin: 120px auto;
+    word-spacing: 5px;
+}
